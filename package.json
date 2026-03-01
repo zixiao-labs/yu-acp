@@ -1,0 +1,27 @@
+{
+  "name": "yu-acp",
+  "version": "1.0.0",
+  "description": "Electron IDE Agent Client Protocol Package",
+  "keywords": [
+    "yu",
+    "acp",
+    "zed",
+    "ide",
+    "arknights"
+  ],
+  "homepage": "https://github.com/zixiao-labs/yu-acp#readme",
+  "bugs": {
+    "url": "https://github.com/zixiao-labs/yu-acp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zixiao-labs/yu-acp.git"
+  },
+  "license": "MIT",
+  "author": "amiya167",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
